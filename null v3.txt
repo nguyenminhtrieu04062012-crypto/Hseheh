@@ -1,4 +1,4 @@
-êj-- NULL HUB V2 (Clean Version)
+-- NULL HUB V2 (Clean Version)
 
 local player = game.Players.LocalPlayer
 local TweenService = game:GetService("TweenService")
